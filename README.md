@@ -2,11 +2,8 @@
 Gerçek zamanlı döviz kurları ile para birimi çevirme web uygulaması.
 
 ✨ Özellikler
-
 -gerçek zamanlı döviz kurları (REST API)
-
 -hızlı para birimi değiştirme
-
 -popüler döviz çiftleri
  
 🛠️ Teknolojiler
