@@ -2,10 +2,11 @@
 Gerçek zamanlı döviz kurları ile para birimi çevirme web uygulaması.
 
 ✨ Özellikler
--gerçek zamanlı döviz kurları (REST API)
--hızlı para birimi değiştirme
--popüler döviz çiftleri
- 
+- Gerçek zamanlı döviz kurları (REST API)
+- Hızlı para birimi değiştirme
+- Popüler döviz çiftleri
+- Responsive tasarım
+
 🛠️ Teknolojiler
 - JavaScript (ES6+)
 - REST API (exchangerate-api.com)
